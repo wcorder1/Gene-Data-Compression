@@ -1,0 +1,31 @@
+## Lab 
+
+Corder Garrett 811877300
+
+## Instructions
+
+To clean my code (i.e., remove any compiled files), type:
+
+```
+$ make clean
+```
+
+To compile my code, type:
+
+```
+$ make compile
+```
+
+To run my code (after compiling it), type:
+
+```
+$ make run
+```
+
+## Initial Brainstorm 
+My group members:       
+
+
+
+## Brainstorm Reflection
+
